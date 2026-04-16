@@ -84,8 +84,6 @@ This project implements a desktop companion character inspired by “羊羊不�
 
 After launching the program, an interactive character window will appear on the desktop.
 
----
-
 ## Requirements
 
 * Python 3.11
@@ -99,8 +97,6 @@ pip install -r requirements.txt
 This project is developed with **Python 3.11** and is intended to be run using this version.
 
 Using other Python versions may lead to compatibility issues, such as differences in type hint handling or third-party library behavior.
-
----
 
 ## Usage
 
@@ -116,8 +112,6 @@ py -3.11 main.py
 
 This ensures that resource folders (such as `assets/` and `states/`) are correctly located and loaded.
 
----
-
 ## Program Flow (Simplified)
 
 1. Start the program via `main.py`
@@ -130,8 +124,6 @@ This ensures that resource folders (such as `assets/` and `states/`) are correct
    * Handle user interactions
    * Update state
    * Display dialogue
-
----
 
 ## License
 
