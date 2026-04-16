@@ -4,8 +4,6 @@
 
 The English version of the README can be found below the Mandarin version.
 
----
-
 ## 项目简介
 
 本项目实现了一个设定源于羊羊不吃草的桌宠，具备以下能力：
@@ -69,8 +67,6 @@ py -3.11 main.py
 # A Desktop Pet Based on “羊羊不吃草”
 
 A Python-based desktop pet project inspired by “羊羊不吃草”, featuring character animations, dialogue bubbles, and state management.
-
----
 
 ## Overview
 
