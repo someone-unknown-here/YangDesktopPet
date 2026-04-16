@@ -1,0 +1,38 @@
+{
+  "window": {
+    "default_width": 260,
+    "min_width": 120,
+    "max_width": 500,
+    "start_x": 976,
+    "start_y": 323,
+    "always_on_top": true
+  },
+  "timing": {
+    "auto_change_action": true,
+    "action_change_minutes": 5,
+    "auto_sleep_enabled": true,
+    "sleep_hour": 22,
+    "meal_hours": [
+      12,
+      19
+    ],
+    "meal_minute_window": 20,
+    "random_speech_minutes": 4,
+    "speech_probability": 0.35,
+    "bug_state_probability": 0.08,
+    "bug_state_cooldown_minutes": 25,
+    "annoy_click_threshold": 15,
+    "annoy_click_window_seconds": 17,
+    "sad_meal_delay_minutes": 35,
+    "annoy_enabled": true
+  },
+  "behavior": {
+    "state": "normal",
+    "fixed_action": "happy",
+    "manual_override": false,
+    "locked_action": false
+  },
+  "speech": {
+    "enabled": true
+  }
+}
